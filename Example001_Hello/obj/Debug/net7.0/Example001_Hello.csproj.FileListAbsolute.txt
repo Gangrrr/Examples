@@ -1,0 +1,14 @@
+/Users/gang/Documents/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello
+/Users/gang/Documents/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.deps.json
+/Users/gang/Documents/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.runtimeconfig.json
+/Users/gang/Documents/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.dll
+/Users/gang/Documents/Examples/Example001_Hello/bin/Debug/net7.0/Example001_Hello.pdb
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.AssemblyInfoInputs.cache
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.AssemblyInfo.cs
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.csproj.CoreCompileInputs.cache
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.dll
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/refint/Example001_Hello.dll
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.pdb
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/Example001_Hello.genruntimeconfig.cache
+/Users/gang/Documents/Examples/Example001_Hello/obj/Debug/net7.0/ref/Example001_Hello.dll
